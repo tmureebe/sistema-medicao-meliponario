@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Para citar este projeto, utilize os dados abaixo."
+title: "Sistema de medição para meliponário"
+authors:
+  - family-names: "Carrijo"
+    given-names: "Thiago Mureebe"
+  - family-names: "Mureebe"
+    given-names: "Alícia Alves Carrijo Bueno"
+url: "https://github.com/tmureebe/sistema-medicao-meliponario"
+date-released: "2026-10-26"
