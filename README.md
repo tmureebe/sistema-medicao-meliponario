@@ -30,8 +30,6 @@ As opções de visualização ficam no painel **Customizer**. Se ele não estive
 
 ## O que há em cada arquivo
 
-**Os arquivos abaixo estão dentro da pasta compactada modelos_3d.zip**.
-
 ### [montagem_sistema_meliponario.scad](montagem_sistema_meliponario.scad)
 
 É o arquivo principal para ver o projeto como um todo: estante coberta, cinco colmeias nas prateleiras, uma unidade de pesagem sob cada caixa, a caixa eletrônica central, o abrigo de temperatura e umidade e o pluviômetro em um mastro separado.
