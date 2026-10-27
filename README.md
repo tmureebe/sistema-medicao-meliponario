@@ -1,3 +1,7 @@
+# Autoria
+
+**Autores**: Thiago Mureebe Carrijo e Alícia Alves Carrijo Bueno Mureebe.
+
 # Modelos do sistema do meliponário
 
 Este conjunto de modelos mostra uma proposta de meliponário com cinco colmeias de abelhas sem ferrão e instrumentos para acompanhar o ambiente. A ideia é observar, ao longo do tempo, a massa de cada caixa, a temperatura e a umidade do ar e a chuva no local. Isso pode ajudar a comparar períodos, floradas e mudanças de manejo.
